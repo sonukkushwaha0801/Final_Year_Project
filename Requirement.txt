@@ -1,0 +1,10 @@
+for frontend:
+    1. Html, CSS, JavaScript(for some part only)
+
+for database:
+    1. SQL and Mongodb for database maintenance 
+
+for backend:
+    1. Python (
+                Flask,django,FastAPI - for API Work 
+              )
